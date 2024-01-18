@@ -1,2 +1,14 @@
 // Use this file to set SASS variables for @edx/paragon
 // See _variables.scss in https://github.com/openedx/paragon/blob/master/scss/core/ for reference
+// Make a new primary color
+$primary: #074CE1;
+$info: $primary;
+$brand: $primary;
+$m-blue-d3: $primary;
+$courseware-border-bottom-color: $primary;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+$font-family-sans-serif : 'Roboto', sans-serif;
+$serif : 'Roboto', sans-serif;
+/* Fonts */
+$font-stack: "Roboto", sans-serif;
+$font-size: 13px;
